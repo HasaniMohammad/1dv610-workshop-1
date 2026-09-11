@@ -1,0 +1,22 @@
+{
+  "name": "1dv610-workshop-1",
+  "version": "1.0.0",
+  "description": "temporary repository for workshop 1",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HasaniMohammad/1dv610-workshop-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/HasaniMohammad/1dv610-workshop-1/issues"
+  },
+  "homepage": "https://github.com/HasaniMohammad/1dv610-workshop-1#readme"
+}
